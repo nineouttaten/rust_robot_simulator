@@ -1,0 +1,14 @@
+[package]
+name = "robot_simulator"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.8.1"
+bevy_mod_picking = "0.9.0"
+bevy_transform_gizmo = "0.3.2"
+bevy_flycam = "*"
+bevy_render = "0.8.1"
+bevy_obj = "0.8.0"
